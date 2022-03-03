@@ -10,7 +10,7 @@
 
     <!--Device Tree -->
 
-    <project name="android_device_redmi_rosemary"  path="device/redmi/rosemary"  remote="RedmiNote10S"  revision="lineage-18.1-clean" />
+    <project name="android_device_redmi_rosemary"  path="device/redmi/rosemary"  remote="Orel6505"  revision="lineage-18.1-clean" />
 
 	<!--Vendor Tree - Not exist yet -->    <!-- <project name="" #repository name   path="vendor/samsung" #path from rom source location   remote="" #remote  revision="" #branch /> -->
 
